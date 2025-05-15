@@ -1,2 +1,3 @@
 # eng-soft-20251
-Repositorio destinado as atividades da disciplina Engenharia de Software
+Repositório destinado às atividades da disciplina Engenharia de Software
+Bruno Falcão de Mendonça

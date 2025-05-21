@@ -1,3 +1,4 @@
 # eng-soft-20251
-Repositório destinado as atividades da disciplina Engenharia de Software
-Nícolas Falcão de Mendonça
+Repositorio destinado as atividades da disciplina de Engenharia de Software
+
+Arquivo alterado por Nícolas Falcão
